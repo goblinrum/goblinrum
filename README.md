@@ -1,5 +1,5 @@
 # Hi! I'm Ryan
-UC Berkeley Computer Science '24
+UC Berkeley Computer Science
 
 ## Current Interests
 - Computer Architecture
