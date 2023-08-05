@@ -1,10 +1,10 @@
 # Hi! I'm Ryan
-UC Berkeley Computer Science
+Currently at UC Berkeley studying Computer Science
 
 ## Current Interests
 - Computer Architecture
-- Backend Web Development
 - Computer Security
+- Backend Systems
 
 
 ## Fun stuff
